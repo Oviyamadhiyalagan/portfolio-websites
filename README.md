@@ -1,2 +1,2 @@
 # portfolio-websites
-HTML &amp; CSS web designs hosted on Neocities 
+HTML &amp; CSS web designs hosted on Neocities platform
