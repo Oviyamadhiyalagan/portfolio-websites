@@ -1,2 +1,8 @@
 # portfolio-websites
-HTML &amp; CSS web designs hosted on Neocities platform
+
+HTML & CSS web designs hosted on Neocities platform
+
+##Projects:
+
+- Event Website 
+- Perfume Product Website 
